@@ -1,5 +1,5 @@
-public class App {
+public class main {
     public static void main(String[] args) throws Exception {
-        Juego juego = new Juego();
+        Game game = new Game();
     }
 }
