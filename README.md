@@ -1,1 +1,1 @@
-# TicTacToe-v1.0
+# TicTacToe
